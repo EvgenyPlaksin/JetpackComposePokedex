@@ -1,5 +1,5 @@
 # JetpackComposePokedex
-An app that shows various pokemon and their abilities.
+An app that shows various pokemon and their abilities and stats
 
 ### Technologies
 - **UI** - [Jetpack Compose](https://developer.android.com/jetpack/compose)
